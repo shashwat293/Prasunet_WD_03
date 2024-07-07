@@ -4,17 +4,22 @@ This project is a beautiful Tic Tac Toe game built using HTML, CSS, and JavaScri
 
 Features
 Responsive Design: Works seamlessly on both desktop and mobile devices.
+
 Smooth Animations: Provides a visually appealing experience with smooth transitions and animations.
+
 Easy to Play: Simple and intuitive interface for players of all ages.
+
 Project Structure
 Copy code
 tic-tac-toe/
 ├── index.html
 ├── styles.css
 └── app.js
+
 index.html: The main HTML file that structures the game interface.
 styles.css: CSS file for styling the game, including layout and animations.
 app.js: JavaScript file containing the game logic and interactivity.
+
 Installation
 Clone the repository:
 sh
